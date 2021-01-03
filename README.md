@@ -1,4 +1,4 @@
-reproduce code 【python】【tensorflow2.0】
+Learning 【python】【tensorflow2.0】
 ====
 一、CTR
 -------
