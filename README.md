@@ -8,3 +8,4 @@ Learning 【python&tensorflow2.0】
 * 4.【PNN】[Product-based Neural Networks for User Response Prediction](https://arxiv.org/pdf/1601.02376.pdf)  
 * 5.【AFM】[Attentional Factorization Machines:Learning the Weight of Feature Interactions via Attention Networks](https://arxiv.org/pdf/1708.04617.pdf)  
 * 6.【NFM】[Neural Factorization Machines for Sparse Predictive Analytics](https://arxiv.org/pdf/1708.05027.pdf)
+* 7.【DeepFM】[DeepFM: A Factorization-Machine based Neural Network for CTR Prediction](https://www.ijcai.org/Proceedings/2017/0239.pdf)
