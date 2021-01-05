@@ -23,7 +23,7 @@ class FM(keras.Model):
         b = tf.matmul(tf.pow(x, 2), tf.pow(self.v, 2))
         #[1, dim] @[dim, 1] + reduce_mean([1, k] - [1, k])
         linear = self.fc(x)
-        add = tf.keras.layers.Add()([linear, tf.reduce_mean(a - b, axis = 1, keepdims = True)*0.5])#原论文里是sum,k越大这个数越大，用mean
+        add = tf.keras.layers.Add()([linear, tf.reduce_mean(a - b, axis = 1, keepdims = True)*0.5])
         return tf.sigmoid(add) 
     
 
