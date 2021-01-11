@@ -9,3 +9,4 @@ Learning 【python&tensorflow2.0】
 * 5.【AFM】[Attentional Factorization Machines:Learning the Weight of Feature Interactions via Attention Networks](https://arxiv.org/pdf/1708.04617.pdf)  
 * 6.【NFM】[Neural Factorization Machines for Sparse Predictive Analytics](https://arxiv.org/pdf/1708.05027.pdf)
 * 7.【DeepFM】[DeepFM: A Factorization-Machine based Neural Network for CTR Prediction](https://www.ijcai.org/Proceedings/2017/0239.pdf)
+* 8.【DCN】[Deep & Cross Network for Ad Click Predictions](https://arxiv.org/pdf/1708.05123.pdf)
