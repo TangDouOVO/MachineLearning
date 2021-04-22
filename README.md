@@ -14,5 +14,5 @@ Learning 【python&tensorflow2.0】
 -------
 二、NLP
 -------
-* 1.【FM】[Sequence to Sequence Learning with Neural Networks(2014)](https://papers.nips.cc/paper/2014/file/a14ac55a4f27472c5d894ec1c3c743d2-Paper.pdf) 
+* 1.【seq2seq】[Sequence to Sequence Learning with Neural Networks(2014)](https://papers.nips.cc/paper/2014/file/a14ac55a4f27472c5d894ec1c3c743d2-Paper.pdf) 
 
