@@ -16,4 +16,5 @@ paper list【python&tensorflow2.3】
 -------
 * 1.【seq2seq】[Sequence to Sequence Learning with Neural Networks(2014)](https://papers.nips.cc/paper/2014/file/a14ac55a4f27472c5d894ec1c3c743d2-Paper.pdf) 
 * 2.【seq2seq with attention】[Effective Approaches to Attention-based Neural Machine Translation(2015)](https://arxiv.org/pdf/1508.04025.pdf) 
+* 3.【transformer】[Attention Is All You Need(2017)](https://arxiv.org/pdf/1706.03762.pdf) 
 
